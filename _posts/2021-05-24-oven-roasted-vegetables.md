@@ -16,7 +16,7 @@ recipe:
     * 1 Aubergine
     * 1 onion
     * 2-5 garlic cloves
-    * $>$ 5 table spoons of olive oil
+    * &gt 5 table spoons of olive oil
     * Salt
     * Pepper
     * Paprika spice
@@ -32,7 +32,7 @@ recipe:
   
   directions_markdown: |-
 
-    1. Preheat the oven at 180 °C.
+    1. Preheat the oven to 180 °C.
     2. Wash the potatoes and sweet potatoes and cut them into wedges (leave the skin on). Put them into a big pot.
     2. Cut the zucchini and aubergine into eatable chunks and add them to the mixture. Cut the onion into big rings and add it as well.
     3. Peel the garlic cloves. Cut two of them into small pieces (or use a garlic press) and if you like garlic, add the other cloves to the mixture as a whole.
