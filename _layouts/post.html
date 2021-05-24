@@ -29,6 +29,7 @@ layout: default
 		</div>
 	</div>
 
+	<!--
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
@@ -37,10 +38,11 @@ layout: default
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
 		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
+-->
 
 	<div class="cta">
 		<h2>More delicious recipes</h2>
-		<p>This is one of the many fantastic recipes available on this blog</p>
+		<p>This is one of the many other recipes available on this blog</p>
 		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more recipes</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}
