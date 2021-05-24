@@ -45,6 +45,7 @@ recipe:
     **Icing**
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
+  notes_markdown: |-
 ---
 These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
 

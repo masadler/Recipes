@@ -29,6 +29,11 @@ layout: default
 		</div>
 	</div>
 
+	<div class="Notes">
+		<h1>Notes</h1>
+			{{ page.recipe.notes_markdown | markdownify }}
+	</div>
+
 	<!--
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
