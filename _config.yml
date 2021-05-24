@@ -13,7 +13,7 @@ logo: /siteicon.png
 description: Blog for easy and reproducible recipes.
 author: Marie
 name: Marie
-email: marie_DOT_recipes_DOT_blog_AT_gmail_DOT_com
+email: "marie_DOT_recipes_DOT_blog_AT_gmail_DOT_com"
 twitter: # twitter username without the @ symbol
 social:
 name: Recipe Blog
