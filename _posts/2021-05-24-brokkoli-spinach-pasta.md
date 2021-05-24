@@ -1,7 +1,8 @@
+---
 date: 2021-05-24
 title: Brokkoli-Spinach-Pasta
 categories:
-  - Fast & Simple
+  - Fast and Simple
 featured_image: https://www.alnatura.de/-/media/Alnatura/B2C/Bilder/rezepte/saisonkalender/Gemuese_Saisonkalender/Broccoli_Saisonkalender_Stage.jpg?h=411&mw=960&w=960&hash=28E7F519BBC1C78D35D5D2AB9F250C5D
 recipe:
   servings: 2-3 people
