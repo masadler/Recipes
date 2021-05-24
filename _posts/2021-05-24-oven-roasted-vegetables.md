@@ -34,11 +34,11 @@ recipe:
 
     1. Preheat the oven to 180 °C.
     2. Wash the potatoes and sweet potatoes and cut them into wedges (leave the skin on). Put them into a big pot.
-    2. Cut the zucchini and aubergine into eatable chunks and add them to the mixture. Cut the onion into big rings and add it as well.
-    3. Peel the garlic cloves. Cut two of them into small pieces (or use a garlic press) and if you like garlic, add the other cloves to the mixture as a whole.
-    4. Add the olive oil and spices and mix everything.
-    5. Lay out two baking trays with baking paper and distribute the mixture on them. 
-    6. Let it cook in the oven for 45 minutes and enjoy!
+    3. Cut the zucchini and aubergine into eatable chunks and add them to the mixture. Cut the onion into big rings and add it as well.
+    4. Peel the garlic cloves. Chop two of them into small pieces (or use a garlic press) and if you like garlic, add the other cloves to the mixture as a whole.
+    5. Add the olive oil and spices and mix everything.
+    6. Lay out two baking trays with baking paper and distribute the mixture on them. 
+    7. Let it cook in the oven for 45 minutes and enjoy!
 
   notes_markdown: |-
 ---
