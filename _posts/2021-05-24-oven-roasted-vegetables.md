@@ -16,7 +16,7 @@ recipe:
     * 1 Aubergine
     * 1 onion
     * 2-5 garlic cloves
-    * &gt 5 table spoons of olive oil
+    * &gt; 5 table spoons of olive oil
     * Salt
     * Pepper
     * Paprika spice
