@@ -37,5 +37,9 @@ recipe:
 
   notes_markdown: |-
     - Instead of spinach, you can use chard (de: Mangold).
-    - <sup>*</sup> I usually use "Alpro Soya Cuisine" or "Alnatura Soja Cuisine" 
+    - <sup>*</sup>I usually use "Alpro Soya Cuisine" or "Alnatura Soja Cuisine" 
 ---
+
+This brokkoli-spinach pasta recipe is very fast to prepare and very easy to scale up! Feel free to experiment with other leafy vegetables and to play with the degree of spiciness! Thanks to my former flatmate for showing me this great recipe!
+
+![Brokkoli-Spinach-Pasta](https://www.alnatura.de/-/media/Alnatura/B2C/Bilder/rezepte/saisonkalender/Gemuese_Saisonkalender/Broccoli_Saisonkalender_Stage.jpg?h=411&mw=960&w=960&hash=28E7F519BBC1C78D35D5D2AB9F250C5D)
