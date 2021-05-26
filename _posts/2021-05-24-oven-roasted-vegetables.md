@@ -5,7 +5,7 @@ categories:
   - "Cooking: Medium"
 featured_image: ../images/Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg
 recipe:
-  servings: 2-3 people
+  servings: 3-4 people
   prep: 25 minutes
   cook: 45 minutes
   ingredients_markdown: |-

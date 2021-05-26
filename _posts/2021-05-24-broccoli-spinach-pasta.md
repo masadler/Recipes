@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Broccoli-Spinach-Pasta
 categories:
   - "Cooking: Fast & Simple"
-featured_image: https://www.alnatura.de/-/media/Alnatura/B2C/Bilder/rezepte/saisonkalender/Gemuese_Saisonkalender/Broccoli_Saisonkalender_Stage.jpg?h=411&mw=960&w=960&hash=28E7F519BBC1C78D35D5D2AB9F250C5D
+featured_image: ../images/Recipes/broccoli-spinach-pasta/Broccoli.jpg
 recipe:
   servings: 2-3 people
   prep: 15 minutes
@@ -43,4 +43,4 @@ recipe:
 
 This broccoli-spinach pasta recipe is very fast to prepare and very easy to scale up! Feel free to experiment with other leafy vegetables and to play with the degree of spiciness! Thanks to my former flatmate for showing me this great recipe!
 
-![Broccoli-Spinach-Pasta](https://www.alnatura.de/-/media/Alnatura/B2C/Bilder/rezepte/saisonkalender/Gemuese_Saisonkalender/Broccoli_Saisonkalender_Stage.jpg?h=411&mw=960&w=960&hash=28E7F519BBC1C78D35D5D2AB9F250C5D)
+![Broccoli-Spinach-Pasta](../images/Recipes/broccoli-spinach-pasta/Broccoli.jpg)
