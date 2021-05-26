@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Broccoli-Spinach-Pasta
 categories:
   - "Cooking: Fast & Simple"
-featured_image: ../images/Recipes/broccoli-spinach-pasta/Broccoli.jpg
+featured_image: ../images/_Recipes/broccoli-spinach-pasta/Broccoli.jpg
 recipe:
   servings: 2-3 people
   prep: 15 minutes
@@ -43,4 +43,4 @@ recipe:
 
 This broccoli-spinach pasta recipe is very fast to prepare and very easy to scale up! Feel free to experiment with other leafy vegetables and to play with the degree of spiciness! Thanks to my former flatmate for showing me this great recipe!
 
-![Broccoli-Spinach-Pasta](../images/Recipes/broccoli-spinach-pasta/Broccoli.jpg)
+![Broccoli-Spinach-Pasta](../images/_Recipes/broccoli-spinach-pasta/Broccoli.jpg)

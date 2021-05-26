@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Oven roasted vegetables
 categories:
   - "Cooking: Medium"
-featured_image: ../images/Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg
+featured_image: ../images/_Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg
 recipe:
   servings: 3-4 people
   prep: 25 minutes
@@ -42,9 +42,10 @@ recipe:
 
   notes_markdown: |-
 
-    Hokkaido pumpkin is also a great vegetable to be added to the plate. In this case, leave out the sweet potatoes to avoid having to many sweet vegetables in the mixture.
+    - Hokkaido pumpkin is also a great vegetable to be added to the plate. In this case, leave out the sweet potatoes to avoid having to many sweet vegetables in the mixture.
+    - Tofu-sausages fit very well to this dish!
 ---
 
 Oven roasted vegetables are simple to prepare and a good way to use up left-over vegetables. Enjoy alone or with some dips such as hummus.
 
-![Oven-roasted-vegetables]("../images/Recipes/oven-roasted-vegetables/Roasted_vegetables_stepbystep.png")
+![Oven-roasted-vegetables](../images/_Recipes/oven-roasted-vegetables/Roasted_vegetables_stepbystep.png)
