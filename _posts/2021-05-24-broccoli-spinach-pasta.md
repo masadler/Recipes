@@ -30,7 +30,7 @@ recipe:
   
   directions_markdown: |-
 
-    1. Fry the onions and garlic in some olive oil.
+    1. Fry the chopped onions and garlic in some olive oil.
     2. In the meantime cut the broccoli into eatable pieces (even use the stem after pealing it) and add it to the pot. Also add the spinach and some water to cover the bottom. 
     3. Let it simmer until the broccoli softens and towards the end of the cooking time add the cream.
     4. Spice to you likening. 

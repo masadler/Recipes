@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Oven roasted vegetables
 categories:
   - "Cooking: Medium"
-featured_image: https://www.chelseasmessyapron.com/wp-content/uploads/2017/12/Holiday-Roasted-Veggies2.jpg
+featured_image: "../images/Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg"
 recipe:
   servings: 2-3 people
   prep: 25 minutes
@@ -45,4 +45,4 @@ recipe:
 
 Oven roasted vegetables are simple to prepare and a good way to use up left-over vegetables. Enjoy alone or with some dips such as hummus.
 
-![Oven-roasted-vegetables](https://www.chelseasmessyapron.com/wp-content/uploads/2017/12/Holiday-Roasted-Veggies2.jpg)
+![Oven-roasted-vegetables]("../images/Recipes/oven-roasted-vegetables/Roasted_vegetables_stepbystep.png")
