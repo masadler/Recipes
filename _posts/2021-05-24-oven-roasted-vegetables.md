@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Oven roasted vegetables
 categories:
   - "Cooking: Medium"
-featured_image: "../images/Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg"
+featured_image: ../images/Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg
 recipe:
   servings: 2-3 people
   prep: 25 minutes
@@ -41,6 +41,8 @@ recipe:
     7. Let it cook in the oven for 45 minutes and enjoy!
 
   notes_markdown: |-
+
+    Hokkaido pumpkin is also a great vegetable to be added to the plate. In this case, leave out the sweet potatoes to avoid having to many sweet vegetables in the mixture.
 ---
 
 Oven roasted vegetables are simple to prepare and a good way to use up left-over vegetables. Enjoy alone or with some dips such as hummus.
