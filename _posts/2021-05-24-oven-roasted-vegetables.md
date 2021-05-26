@@ -3,7 +3,7 @@ date: 2021-05-24
 title: Oven roasted vegetables
 categories:
   - "Cooking: Medium"
-featured_image: /images/_Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg
+featured_image: "/images/_Recipes/oven-roasted-vegetables/Roasted_vegetables.jpeg"
 recipe:
   servings: 3-4 people
   prep: 25 minutes
