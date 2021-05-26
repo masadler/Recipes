@@ -11,22 +11,22 @@ recipe:
   ingredients_markdown: |-
     **Sauce**
 
-    * 1 Broccoli
-    * 300 g Spinach
+    * 1 broccoli
+    * 300 g spinach
     * 1 small onion
     * 2 garlic cloves
-    * Olive oil
+    * olive oil
     * 250 ml plant-based cream<sup>*</sup>
-    * Salt
-    * Pepper
-    * At least a teaspoon of Curry
-    * Some Cayenne pepper
-    * Nutmeg
+    * salt
+    * pepper
+    * at least a teaspoon of curry
+    * some Cayenne pepper
+    * nutmeg
 
     **Pasta**
 
-    * 400 g Pasta of your choice
-    * Salt water
+    * 400 g pasta of your choice
+    * salt water
   
   directions_markdown: |-
 

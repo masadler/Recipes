@@ -12,17 +12,17 @@ recipe:
 
     * 1 kg potatoes
     * 0.5 kg sweet potatoes
-    * 1 Zucchini
-    * 1 Aubergine
+    * 1 zucchini
+    * 1 aubergine
     * 1 onion
     * 2-5 garlic cloves
     * &gt; 5 table spoons of olive oil
-    * Salt
-    * Pepper
-    * Paprika spice
-    * Some Cayenne pepper
-    * Herbes de Provence
-    * Oregano
+    * salt
+    * pepper
+    * paprika spice
+    * some Cayenne pepper
+    * herbes de Provence
+    * oregano
 
     **Optional vegetables**
     * 1/4 celeriac
