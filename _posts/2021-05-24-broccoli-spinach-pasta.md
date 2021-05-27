@@ -43,4 +43,4 @@ recipe:
 
 This broccoli-spinach pasta recipe is very fast to prepare and very easy to scale up! Feel free to experiment with other leafy vegetables and to play with the degree of spiciness! Thanks to my former flatmate for showing me this great recipe!
 
-![Broccoli-Spinach-Pasta](/images/RecipeImages/broccoli-spinach-pasta/Broccoli.jpg)
+![Broccoli-Spinach-Pasta]({{ site.baseurl }}/images/RecipeImages/broccoli-spinach-pasta/Broccoli.jpg)
