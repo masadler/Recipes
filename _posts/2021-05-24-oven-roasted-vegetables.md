@@ -48,6 +48,6 @@ recipe:
 
 Oven roasted vegetables are simple to prepare and a good way to use up left-over vegetables. Enjoy alone or with some dips such as hummus.
 
-## Step-by-step instructions
+<h2>Step-by-step instructions</h2>
 
 ![Oven-roasted-vegetables]({{ site.baseurl }}/images/RecipeImages/oven-roasted-vegetables/Roasted_vegetables_stepbystep.png)
