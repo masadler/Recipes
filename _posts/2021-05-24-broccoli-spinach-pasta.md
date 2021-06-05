@@ -30,10 +30,10 @@ recipe:
   
   directions_markdown: |-
 
-    1. Fry the chopped onions and garlic in some olive oil. CHANGE!!
-    2. In the meantime cut the broccoli into eatable pieces (even use the stem after pealing it) and add it to the pot. Also add the spinach and some water to cover the bottom. 
+    1. Fry the chopped onions in some olive oil. Towards the end of the frying time, add the garlic. Don't add it too early, otherwise it might burn.
+    2. In the meantime cut the broccoli into eatable pieces (even use the stem after pealing it) and add it to the pot. Also add the spinach and some water to cover the bottom if needed.
     3. Let it simmer until the broccoli softens and towards the end of the cooking time add the cream.
-    4. Spice to you likening. 
+    4. Spice the mixture to your likening. 
     5. Cook the pasta and serve together with the sauce.
 
   notes_markdown: |-
