@@ -5,14 +5,14 @@ categories:
   - "Cooking: Fast & Simple"
 featured_image: /images/RecipeImages/broccoli-spinach-pasta/Broccoli.jpg
 recipe:
-  servings: 2-3 people
+  servings: 3-4 people
   prep: 15 minutes
   cook: 25 minutes
   ingredients_markdown: |-
     **Sauce**
 
     * 1 broccoli
-    * 300 g spinach
+    * 300-500 g spinach
     * 1 small onion
     * 2 garlic cloves
     * olive oil
@@ -30,7 +30,7 @@ recipe:
   
   directions_markdown: |-
 
-    1. Fry the chopped onions and garlic in some olive oil.
+    1. Fry the chopped onions and garlic in some olive oil. CHANGE!!
     2. In the meantime cut the broccoli into eatable pieces (even use the stem after pealing it) and add it to the pot. Also add the spinach and some water to cover the bottom. 
     3. Let it simmer until the broccoli softens and towards the end of the cooking time add the cream.
     4. Spice to you likening. 
