@@ -1,4 +1,3 @@
-![Treat template screenshot](images/_screenshot.png)
 # Recipe Blog
 
 Visit my Recipe at [https://masadler.github.io/Recipes/](https://masadler.github.io/Recipes/)!
