@@ -24,10 +24,10 @@ recipe:
     3. Add the berries, close the container and leave the mixture in the fridge overnight.
     4. The next morning quickly stir the porridge and enjoy cold or warm after heating it in the microwave.
 
-notes_markdown: |-
-  
-  - <sup>*</sup>Instead of frozen berries, you can also add fresh fruits the next morning.
-  - Take your breakfast to work by preparing it in a sealed box!
+  notes_markdown: |-
+    
+    - <sup>*</sup>Instead of frozen berries, you can also add fresh fruits the next morning.
+    - Take your breakfast to work by preparing it in a sealed box!
 ---
 
 My favourite daily breakfast! Nutritious, filling and very yummy!
