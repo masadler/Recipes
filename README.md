@@ -1,6 +1,6 @@
 # Recipe Blog
 
-Visit my Recipe at [https://masadler.github.io/Recipes/](https://masadler.github.io/Recipes/)!
+Visit my Recipe Blog at [https://masadler.github.io/Recipes/](https://masadler.github.io/Recipes/)!
 ![Blog screenshot](images/_screenshot.png)
 
 
