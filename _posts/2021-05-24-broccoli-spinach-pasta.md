@@ -19,7 +19,7 @@ recipe:
     * 250 ml plant-based cream<sup>*</sup>
     * salt
     * pepper
-    * at least a teaspoon of curry
+    * at least a tsp of curry
     * some Cayenne pepper
     * nutmeg
 
