@@ -34,4 +34,4 @@ My favourite daily breakfast! Nutritious, filling and very yummy!
 
 <h2>Step-by-step instructions in images</h2>
 
-![bean-rice]({{ site.baseurl }}/images/RecipeImages/overnight-oats/oats_stepbystep.png)
+![overnight-oats]({{ site.baseurl }}/images/RecipeImages/overnight-oats/oats_stepbystep.png)

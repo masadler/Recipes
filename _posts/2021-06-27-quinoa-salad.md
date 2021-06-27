@@ -47,4 +47,4 @@ Quinoa salad is a great summer dish (but not only)! Either eat alone or as a sid
 
 <h2>Step-by-step instructions in images</h2>
 
-![bean-rice]({{ site.baseurl }}/images/RecipeImages/quinoa-salad/quinoa_salad_stepbystep.png)
+![quinoa-salad]({{ site.baseurl }}/images/RecipeImages/quinoa-salad/quinoa_salad_stepbystep.png)
