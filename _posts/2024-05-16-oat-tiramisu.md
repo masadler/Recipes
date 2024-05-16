@@ -29,7 +29,7 @@ recipe:
 
 ---
 
-An easy healthy breakfast with style!
+An easy and healthy breakfast with style!
 
 <h2>Step-by-step instructions in images</h2>
 
