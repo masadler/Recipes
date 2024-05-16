@@ -34,4 +34,4 @@ An easy and healthy breakfast with style!
 
 <h2>Step-by-step instructions in images</h2>
 
-![overnight-oats]({{ site.baseurl }}/images/RecipeImages/oat-tiramisu/oat_tiramisu_stepbystep.png)
+![oat-tiramisu]({{ site.baseurl }}/images/RecipeImages/oat-tiramisu/oat_tiramisu_stepbystep.png)
