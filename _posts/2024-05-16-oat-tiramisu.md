@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
 
     * 30 g oats
-    * 3 Tbsp coffee
+    * 3 tbsp coffee
     * 90 mL soy milk
     * 1 pinch of cinnamon
     * 150 g coconut yoghurt <sup>*</sup>
@@ -26,6 +26,7 @@ recipe:
   notes_markdown: |-
     
     - <sup>*</sup>Any other plant-based yoghurt works as well. Use Greek yoghurt for a vegetarian option.
+    - Credit for this recipe goes to Brigi from Tenerife.
 
 ---
 
