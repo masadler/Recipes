@@ -3,7 +3,7 @@ date: 2024-05-18
 title: Guacamole
 categories:
   - "Snack"
-featured_image: /images/RecipeImages/guacamole/guacamole.heic
+featured_image: /images/RecipeImages/guacamole/guacamole.jpeg
 recipe:
   servings: 4-6 people
   prep: 10 minutes
