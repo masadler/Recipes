@@ -38,4 +38,4 @@ This Mexican dip is a culinary delight and can now be found on modern menus worl
 
 <h2>Step-by-step instructions in images</h2>
 
-![Hummus]({{ site.baseurl }}/images/RecipeImages/guacamole/guacamole_stepbystep.png)
+![guacamole]({{ site.baseurl }}/images/RecipeImages/guacamole/guacamole_stepbystep.png)
