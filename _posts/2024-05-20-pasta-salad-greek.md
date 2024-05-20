@@ -36,7 +36,7 @@ recipe:
 
   notes_markdown: |-
     
-    - [Hummus]({{ site.baseurl }}/Recipes/snack/2021/06/06/hummus/) and [guacamole]({{ site.baseurl }}/Recipes/snack/2024/05/18/guacamole/) fit very well to this pasta salad.
+    - [Hummus](https://masadler.github.io/Recipes/snack/2021/06/06/hummus/) and [guacamole](https://masadler.github.io/Recipes/snack/2024/05/18/guacamole/) fit very well to this pasta salad.
 ---
 
 This Greek-style pasta salad makes for a great summer companion as it is easy to prepare and very flavourful. Light yet filling, it can be eaten alone or served as a side dish.
