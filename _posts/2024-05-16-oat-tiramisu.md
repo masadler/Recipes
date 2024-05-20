@@ -1,6 +1,6 @@
 ---
 date: 2024-05-16
-title: Oat-tiramisu
+title: Oat-Tiramisu
 categories:
   - "Breakfast"
 featured_image: /images/RecipeImages/oat-tiramisu/oat_tiramisu.jpeg
