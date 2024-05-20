@@ -1,6 +1,6 @@
 ---
 date: 2021-06-06
-title: Overnight oats
+title: Overnight Oats
 categories:
   - "Breakfast"
 featured_image: /images/RecipeImages/overnight-oats/oats.jpeg

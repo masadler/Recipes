@@ -1,6 +1,6 @@
 ---
 date: 2021-07-16
-title: Fried rice
+title: Fried Rice
 categories:
   - "Cooking: Medium"
 featured_image: /images/RecipeImages/fried-rice/fried_rice.jpeg

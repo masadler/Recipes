@@ -1,6 +1,6 @@
 ---
 date: 2021-05-24
-title: Oven roasted vegetables
+title: Oven Roasted Vegetables
 categories:
   - "Cooking: Medium"
 featured_image: /images/RecipeImages/oven-roasted-vegetables/Roasted_vegetables.jpeg
