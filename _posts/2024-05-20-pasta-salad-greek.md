@@ -21,6 +21,7 @@ recipe:
     **Salad sauce**
 
     * 3 tbsp vinegar
+    * 6 tbsp olive oil
     * 1 tsp dried oregano
     * 1 garlic clove, minced
     * 1 tsp mustard (medium-strength)
