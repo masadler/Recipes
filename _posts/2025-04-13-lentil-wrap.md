@@ -45,4 +45,4 @@ My favourite wrap to go on trips!
 
 <h2>Step-by-step instructions in images</h2>
 
-![lentil_wrap]({{ site.baseurl }}/images/RecipeImages/lentil-wrap/lentil_wrap_stepbystep.jpeg)
+![lentil_wrap]({{ site.baseurl }}/images/RecipeImages/lentil-wrap/lentil_wrap_stepbystep.jpg)
