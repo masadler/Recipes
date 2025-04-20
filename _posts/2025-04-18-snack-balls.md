@@ -6,7 +6,7 @@ categories:
 featured_image: /images/RecipeImages/snack-ball/snack_ball.jpeg
 recipe:
   servings: "20 snack balls"
-  prep: "1h minutes"
+  prep: "60 minutes"
   cook: "45 minutes"
   ingredients_markdown: |-
 
@@ -48,7 +48,7 @@ recipe:
     4. **Prepare the fruit**: Wash, peel and finely chop the apples, wash the blueberries, and cut the dates into small pieces.
     5. **Combine everything**: Mix the wet ingredients into the yoghurt-flour mixture, then fold in the fruit. Stir until evenly distributed.
     6. **Form the dough balls**: Shape dough into balls using approx. 2 tbsp per piece (~100 g). You should get around 20 dough balls. If using the glaze, brush the tops with the maple-soy glaze mixture.
-    7. **Bake**: Preheat the oven to 170 °C. Bake the dough balls on a lined tray for about 45 minutes, until golden and set.
+    7. **Bake**: Preheat the oven to 170 °C. Bake the dough balls on a lined tray for about 45 minutes, until golden and set. EnEnjoy them freshly baked, or freeze for later — perfect as a convenient, wholesome snack.
 
   notes_markdown: |-
 
