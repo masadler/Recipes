@@ -30,7 +30,7 @@ recipe:
 
   directions_markdown: |-
 
-    1. **Cook the lentils**: Cook the lentils according to the package instructions in salted water (add 1 tsp of salt). This usually takes 20–30 minutes and can be done in advance or the day before. Drain the lentils and let them cool.
+    1. **Cook the lentils**: Rinse the lentils and cook them according to the package instructions in salted water (add 1 tsp of salt). This usually takes 20–30 minutes and can be done in advance or the day before. Drain the lentils and let them cool.
     2. **Prepare the pickled vegetables**: Cut the onions into rings. Peel the carrots and slice them lengthwise. Squeeze the limes and mix the juice with the salt and sugar. Add the vegetables and let them pickle for at least 2 hours. This can also be done the day before.
     3. **Assemble the wrap**: Generously spread hummus and crème fraîche over the wrap. Add the lentils, parsley, pickled vegetables, and sliced halloumi. Fold or roll up the wrap.
     4. **Air-fry the wrap**: In an oven or air fryer, air-fry the wrap at 180 °C for about 2–5 minutes, until lightly crisped and heated through.
