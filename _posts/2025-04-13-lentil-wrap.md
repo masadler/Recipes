@@ -5,7 +5,7 @@ categories:
   - "Cooking: Medium"
 featured_image: /images/RecipeImages/lentil-wrap/lentil_wrap.jpeg
 recipe:
-  servings: "2 people"
+  servings: "4 wraps"
   prep: "15 minutes"
   cook: "25 minutes"
   ingredients_markdown: |-
