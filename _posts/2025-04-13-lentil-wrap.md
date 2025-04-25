@@ -18,7 +18,7 @@ recipe:
     * 2 small carrots
     * 4-5 limes
     * 1 tsp salt
-    * 1 tsp salt
+    * 1 tsp sugar
 
     **Other ingredients**
 
