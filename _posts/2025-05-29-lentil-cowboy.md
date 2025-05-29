@@ -1,5 +1,5 @@
 ---
-date: 2025-04-29
+date: 2025-05-29
 title: Lentil cowboy potatoes
 categories:
   - "Cooking: Medium"
