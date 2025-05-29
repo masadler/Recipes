@@ -43,4 +43,4 @@ A filling and well-rounded dish for all year round!
 
 <h2>Step-by-step instructions in images</h2>
 
-![quinoa-salad]({{ site.baseurl }}/images/RecipeImages/lentil-cowboy/lentil_cowboy_stepbystep.jpg)
+![lentil_cowboy]({{ site.baseurl }}/images/RecipeImages/lentil-cowboy/lentil_cowboy_stepbystep.jpg)
