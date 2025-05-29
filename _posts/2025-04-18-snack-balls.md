@@ -54,7 +54,7 @@ recipe:
 
     - <sup>(1)</sup> You can adjust the flour mixture to your preference. For a gluten-free version, use only oat flour. For a lighter texture, use only white flour.
     - <sup>(2)</sup> Fruity yoghurt alternatives (with added sugars) will naturally sweeten the dough.
-    - <sup>(3)</sup> For a non-vegan version, you can also use curd cheese (de: Quark).
+    - <sup>(3)</sup> For a non-vegan version, you can also use curd cheese (de: Quark). More yoghurt or curd cheese will make the balls fluffier.
     - This is a mildly sweet recipe. Adjust sweetness to taste by increasing maple syrup or dates. You can also use just one sweetener (e.g. 200 g dates only).
 ---
 
