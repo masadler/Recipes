@@ -27,13 +27,6 @@ recipe:
 
   directions_markdown: |-
 
-    1. **Prepare the vegetables**: Peel the carrots, celery, and potatoes. Cut all vegetables into small cubes. Clean and slice the leek. Finely chop the onion and crush or finely chop the garlic.
-    2. **Sauté the base**: Heat 2–3 tablespoons of olive oil in a large pot over medium heat. Add the chopped onion and fry for about 5 minutes, until translucent. Add the garlic and sliced leek, and sauté for another 5 minutes.
-    3. **Add root vegetables**: Stir in the chopped carrots, celeriac, and potatoes. Fry everything for about 2 more minutes, stirring occasionally.
-    4. **Add lentils and broth**: Add the green lentils to the pot, then pour in enough water to cover everything. Stir in the bouillon.
-    4. **Simmer and season**: Bring the soup to a boil, then reduce the heat and simmer for about 30 minutes, or until the vegetables and lentils are tender. Add chopped parsley, thyme, oregano, and season with salt and pepper to taste.
-    5. **Finish**: Optionally, use a hand blender to puree part or all of the soup for a creamier consistency — or leave it chunky for a more rustic feel.
-
     1. **Prepare the vegetables**: Peel and chop the carrots and celeriac into small cubes. Clean the leek and cut it into rings. Finely chop the onion.
     2. **Sauté the base**: Heat 2–3 tablespoons of olive oil in a medium-sized pot over medium heat. Add the chopped onion and fry for about 5 minutes, until translucent. Add the leek and sauté for another 5 minutes. Stir in the carrots and celeriac, and fry for about 2 more minutes. Finally, add the pearl barley and fry briefly while stirring.
     3. **Add broth and spices**: Stick the cloves into the bay leaves to make them easier to remove later. Add the bay leaves and vegetable bouillon powder dissolved in about 1 L of water. Bring to a boil, then reduce the heat and let simmer gently for about 1 hour, until the barley is tender.
