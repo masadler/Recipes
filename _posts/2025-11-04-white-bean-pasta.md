@@ -13,7 +13,7 @@ recipe:
     * 250 g fettucine pasta
     * 3 cloves garlic
     * 2 tbsp olive oil
-    * 1 tsbp margarine
+    * 1 tbsp margarine
     * ~400 g cherry tomatoes
     * 100 g baby spinach
     * 1 can of canellini beans (around 250 g drained weight)
